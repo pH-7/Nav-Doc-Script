@@ -13,6 +13,6 @@ defined('PH7') or exit('Restricted access');
 
 <body>
 
-  <div class="center">
+  <div class="center" id="block">
 	  
 	  <div id="content">
