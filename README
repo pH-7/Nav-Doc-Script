@@ -1,4 +1,5 @@
-Simple little script that lets you add files. Dwt easily documentation for your software.
+Simple little script coded in PHP and using only functions!
+It lets you add files very easily. Dwt easily documentation for your software.
 The script supports gersion languages ​​and provides an interface in Ajax with jQuery.
 
 ==== Installation ====
