@@ -1,0 +1,30 @@
+Simple little script that lets you add files. Dwt easily documentation for your software.
+The script supports gersion languages ​​and provides an interface in Ajax with jQuery.
+
+==== Installation ====
+No installation.
+Simply place your documentation files with the extension. Dwt in a language folder or create a new one with your tongue.
+
+==== P.S. ====
+This version is still in BETA.
+Please contact me with any colaboration with me to develop this script.
+
+==== SERVER REQUIREMENTS ====
+
+----- Operating System -----  
+Linux, BSD, Solaris, Windows or Mac
+
+----- Web Server -----
+Apache, CGI, FastCGI, IIS or ISAPI
+
+----- Application Server -----
+PHP 5.3.0 or higher
+
+==== About ====
+/**
+ * @author      SORIA Pierre-Henry
+ * @email       pierrehs@hotmail.com
+ * @link        http://github.com/pH-7
+ * @copyright   Copyright pH7 Script All Rights Reserved.
+ * @license     CC-BY - http://creativecommons.org/licenses/by/3.0/
+ */
