@@ -49,6 +49,10 @@ function get_lang() {
     return set_lang();
 }
 
+/**
+ * @param string $sDir The directory.
+ * @return string The list of the folder that is in the directory.
+ */
 function get_dir_list($sDir) {
     $aDirList = array();
 
@@ -65,6 +69,9 @@ function get_dir_list($sDir) {
     return $aDirList;
 }
 
+/**
+ * @return string The current URL.
+ */
 function get_current_url() {
     return PROT_URL . strip_tags($_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
 }
