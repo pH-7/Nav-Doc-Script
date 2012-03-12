@@ -20,6 +20,9 @@ function get_links_html() {
 	echo '</ul>';
 }
 
+/**
+ * @return string The links of the languages ​​available.
+ */
 function get_langs_html() {
 	 $aLangs = get_dir_list(DATA_PATH);
 	 $aLangsList = include(ROOT_PATH . 'inc/conf.lang.php');
