@@ -1,6 +1,6 @@
-<?php 
+<?php
 namespace PH7\Doc;
-defined('PH7') or exit('Restricted access'); 
+defined('PH7') or exit('Restricted access');
 ?>
 <!DOCTYPE html>
 <html>
@@ -12,7 +12,14 @@ defined('PH7') or exit('Restricted access');
 </head>
 
 <body>
-
   <div class="center" id="block">
-	  
-	  <div id="content">
+		  
+		 <header>
+           <h1><a id="logo" href="<?php echo ROOT_URL ?>">Your Logo</a></h1>
+         </header>
+         
+      <div id="ajph">  
+	  <div id="sub_ajph">
+				   
+      <section>
+		  <article>
